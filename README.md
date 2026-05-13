@@ -1,8 +1,9 @@
+
 # Julianna Harilova — Portfolio Personnel
 
 Portfolio en ligne de **HARILOVA Julianna Ramina**, Data Scientist et étudiante en sciences mathématiques à AIMS Sénégal.
 
-🌐 **Site en ligne** : [https://JHARILOVA.github.io/portfolio](https://JHARILOVA.github.io/portfolio)
+ **Site en ligne** : [https://JHARILOVA.github.io/portfolio](https://JHARILOVA.github.io/portfolio)
 
 ---
 
@@ -43,3 +44,7 @@ Le formulaire utilise [Formspree](https://formspree.io). Pour l'activer :
 ---
 
 © 2026 Julianna Harilova
+=======
+# portofolio
+this is  my first portfolio
+
